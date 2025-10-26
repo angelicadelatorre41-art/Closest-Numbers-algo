@@ -1,1 +1,1 @@
-# Closest-Numbers-algo
+# Closest-Numbers-algo The function sorts the list and finds the smallest absolute difference between any two consecutive elements. It then collects all pairs of numbers with that minimum difference and returns them in sorted order.
